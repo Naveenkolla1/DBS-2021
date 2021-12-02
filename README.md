@@ -28,7 +28,7 @@ Food delivery services are more vital than ever now that the Corona virus is a d
 •	 User can order one or multiple items from the restaurant in a single order
 
 ## EERD with new Tables
-![alt text](https://github.com/Naveenkolla1/DBS-2021/blob/main/diagrams/EERD%20Final.png)
+![alt text](https://github.com/Naveenkolla1/DBS-2021/blob/main/diagrams/EERD%20final.png)
  
 ## Data Dictionary
 

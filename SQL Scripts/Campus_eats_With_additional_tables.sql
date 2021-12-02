@@ -944,15 +944,16 @@ DROP TABLE IF EXISTS `order_status`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `order_status` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `order_status_id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(75) DEFAULT NULL,
-  PRIMARY KEY (`id`)
+  PRIMARY KEY (`order_status_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=101 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
 -- Dumping data for table `order_status`
 --
+
 
 LOCK TABLES `order_status` WRITE;
 /*!40000 ALTER TABLE `order_status` DISABLE KEYS */;

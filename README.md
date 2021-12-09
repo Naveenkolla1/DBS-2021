@@ -13,19 +13,19 @@ Food delivery services are more vital than ever now that the Corona virus is a d
 
 
 ## Business Rules:
-###•	Only students are drivers
-###•	University members are the only users of the system
-###•	An order has one and only one rating
-###•	Ratings are optional, etc.
-###•	Order can be placed only via campus app
-###•	Campus id is needed for placing the order
-###•	Students can work only 20hrs/week
-###•	Delivery can be made only within campus
-###•	An individual delivery is tied to one and only one person for the order
-###•	 A unique identifier (ID) is tied to the id for the order at the individual   restaurant
-###•	 Restaurants can have multiple menu items
-###•	 User can order from a single restaurant at a time
-###•	 User can order one or multiple items from the restaurant in a single order
+•	Only students are drivers <br />
+•	University members are the only users of the system <br />
+•	An order has one and only one rating <br />
+•	Ratings are optional, etc. <br />
+•	Order can be placed only via campus app <br />
+•	Campus id is needed for placing the order <br />
+•	Students can work only 20hrs/week <br />
+•	Delivery can be made only within campus <br />
+•	An individual delivery is tied to one and only one person for the order <br />
+•	 A unique identifier (ID) is tied to the id for the order at the individual   restaurant <br />
+•	 Restaurants can have multiple menu items <br />
+•	 User can order from a single restaurant at a time <br />
+•	 User can order one or multiple items from the restaurant in a single order <br />
 
 ## EERD with new Tables
 ![alt text](https://github.com/Naveenkolla1/DBS-2021/blob/main/diagrams/EERD%20final.png)
